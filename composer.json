@@ -1,0 +1,27 @@
+{
+    "name": "hscstudio/yii2-export",
+    "description": "Excel, Word, PDF",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Hafid Mukhlasin",
+            "email": "hafidmukhlasin@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "phpoffice/phpexcel": "1.8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "hscstudio\\export\\": ""
+        },
+        "files": [
+            "libraries/tbs/tbs_class.php",
+            "libraries/tbs/plugins/tbs_plugin_opentbs.php",
+            "libraries/mpdf60/mpdf.php"
+        ]
+    }
+}
