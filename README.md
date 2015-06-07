@@ -25,22 +25,13 @@ to the require section of your `composer.json` file.
 
 Usage
 -----
+see example in [templates folder](templates/)
 
-
-Export
-------
-
-
-by Hafid Mukhlasin
-
-Technology behind me:
+Technology Behind Us
+--------------------
 - Yii Framework 2.0,
 - TinyButStrong, 
 - PHPExcel, dan 
 - MPDF
-Once the extension is installed, simply use it in your code by  :
 
-see example in [templates folder](templates/)
-
-Testing
-
+Depok
