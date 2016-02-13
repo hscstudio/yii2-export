@@ -13,13 +13,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist hscstudio/yii2-export "1.0.0"
+php composer.phar require --prefer-dist hscstudio/yii2-export "1.2.*"
 ```
 
 or add
 
 ```
-"hscstudio/yii2-export": "1.0.0"
+"hscstudio/yii2-export": "1.2.*"
 ```
 
 to the require section of your `composer.json` file.
