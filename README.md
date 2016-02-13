@@ -36,4 +36,24 @@ Technology Behind Us
 - PHPExcel, dan 
 - MPDF
 
-Depok
+## How to Contribute
+
+This tools is an OpenSource project so your contribution is very welcome.
+
+In order to get started:
+
+- Install this in your local (read installation section)
+- Clone this repository.
+- Check [README.md](README.md).
+- Send [pull requests](https://github.com/hscstudio/yii2-export/pulls).
+
+Aside from contributing via pull requests you may [submit issues](https://github.com/hscstudio/yii2-export/issues).
+
+## Our Team
+
+- [Hafid Mukhlasin](http://www.hafidmukhlasin.com) - Project Leader / Indonesian Yii developer.
+
+We'd like to thank our [contributors](https://github.com/hscstudio/yii2-export/graphs/contributors) for improving
+this tools. Thank you!
+
+Jakarta - Indonesia
